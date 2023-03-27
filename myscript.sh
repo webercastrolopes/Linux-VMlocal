@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo ""
+echo "started project-01"
 echo "Iniciando execucao do projeto 01"
 echo ""
 echo ""
